@@ -1,3 +1,3 @@
 # odin-landing-page
 
-The Odin Project Foundations project. Open `index.html` in a browser to view.
+My Landing Page project for The Odin Project.
